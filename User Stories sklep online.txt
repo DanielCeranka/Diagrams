@@ -1,0 +1,24 @@
+User Story 1: Przeglądanie Przedmiotów
+Jako klient  
+Chcę przeglądać przedmioty w sklepie online  
+aby móc zobaczyć dostępne produkty do zakupu.
+
+User Story 2: Dodanie produktu do koszyka
+Jako klient  
+Chcę dodać produkt do koszyka  
+aby móc zobaczyć listę wybranych przeze mnie produktów.
+
+User Story 3: Zakończenie Procesu Zakupu
+Jako klient  
+Chcę dokonać płatności  
+aby mój zakup został potwierdzony i abym mógł oczekiwać dostawy.
+
+User Story 4: Logowanie
+Jako powracający klient  
+Chcę zalogować się do sklepu online  
+aby mieć dostęp do moich danych konta i historii wcześniejszych zakupów.
+
+User Story 5: Bezpieczne Logowanie
+Jako klient  
+Chcę być zapewniony, że proces logowania jest bezpieczny  
+aby moje dane osobowe i płatności były chronione.
